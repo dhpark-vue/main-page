@@ -1,6 +1,6 @@
 {
   "name": "main-page",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "scripts": {
     "dev": "cross-env NODE_OPTIONS='--no-warnings' vite",
     "build": "vite build",
